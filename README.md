@@ -1,2 +1,2 @@
-# acct-plug_bot
-plug bot
+# shadow_md
+shadow bot
